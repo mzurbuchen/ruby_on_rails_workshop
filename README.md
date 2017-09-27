@@ -6,7 +6,7 @@ Dieser Workshop ist von Lernenden für Lernende. Interessierte Lernende laden wi
 dazu ein mitzumachen.
 
 ### Anleitung Instalation RVM und Git
-1. [Anleitung](homework/manual.md)
+[Anleitung](homework/manual.md)
 
 ## Ablauf
 
