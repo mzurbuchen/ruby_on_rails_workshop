@@ -17,3 +17,4 @@ dazu ein mitzumachen.
 
 - [Introducing](http://kottans.org/ruby-slides/public/rubybasics/#run-files)
 - [Getting started with Rails](http://guides.rubyonrails.org/getting_started.html)
+- [Try Ruby](http://tryruby.org)
