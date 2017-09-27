@@ -5,6 +5,9 @@ im Sitzungszimmer Git bei Puzzle ITC an der Belpstrasse 37 statt.
 Dieser Workshop ist von Lernenden für Lernende. Interessierte Lernende laden wir gerne 
 dazu ein mitzumachen.
 
+### Anleitung Instalation RVM und Git
+1. [Anleitung](homework/manual.md)
+
 ## Ablauf
 
 ### Ruby
