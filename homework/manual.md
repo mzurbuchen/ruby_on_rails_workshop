@@ -139,3 +139,7 @@ Bundler bietet eine Umgebung für Ruby-Projekte durch die Installation und Verfo
 Bundler installieren:
 
 `gem install bundler`
+
+### Links
+
+[How to install Ruby on Rails](http://railsapps.github.io/installrubyonrails-ubuntu.html)
