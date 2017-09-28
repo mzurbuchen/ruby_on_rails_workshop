@@ -7,9 +7,9 @@ Hier ist eine Anleitung was es braucht und wie man es installiert.
 
 Wenn du am Ruby on Rails Workshop teilnehmen möchtest, müssen folgende Sachen vorinstalliert sein:
 
--Rails
-
 -RVM
+
+-Rails
 
 -Git
 
@@ -21,12 +21,6 @@ Wenn du am Ruby on Rails Workshop teilnehmen möchtest, müssen folgende Sachen 
 
 Ruby ist eine objektorientierte Programmiersprache, die sich einfach andwenden und produktiv einsetzen lässt.
 Die Syntax ist leicht zum Lesen und Schreiben.
-
-## Rails
-
-### Was ist Rails?
-
-Ruby on Rails ist ein Web-Framework, dass auf Ruby basiert. Es wird zur Entwicklung von dynamischen und datenbankbasierten Web-Anwendungen gebraucht. Rails unterstützt Web-Entwickler bei der Entwicklung von Anwendungen mit zahlreichen Features, die für eine hohe Produktivität sorgen.
 
 ## RVM
 
@@ -102,6 +96,22 @@ Zeigt an welche Datei ausgeführt wird:
 
 `which ruby`
 
+## Rails
+
+### Was ist Rails?
+
+Ruby on Rails ist ein Web-Framework, dass auf Ruby basiert. Es wird zur Entwicklung von dynamischen und datenbankbasierten Web-Anwendungen gebraucht. Rails unterstützt Web-Entwickler bei der Entwicklung von Anwendungen mit zahlreichen Features, die für eine hohe Produktivität sorgen.
+
+### Installation
+
+Ruby on Rails installieren:
+
+`gem install rails`
+
+Rails Version anzeigen:
+
+`rails -v`
+
 ## Git
 
 ### Was ist Git?
@@ -113,6 +123,10 @@ Git ist eine kostenlose Software für das versionieren und verwalten des Program
 Git installieren:
 
 `sudo apt install git-all`
+
+Git Version anzeigen:
+
+`git --version`
 
 ## Bundler
 
