@@ -3,6 +3,20 @@
 Um am Ruby on Rails Workshop teilzunehmen, müssen einige Anforderungen erfüllt werden.
 Hier ist eine Anleitung was es braucht und wie man es installiert.
 
+## Vorraussetzungen
+
+Wenn du am Ruby on Rails Workshop teilnehmen möchtest, müssen folgende Sachen vorinstalliert sein:
+
+-Ruby
+
+-Rails
+
+-RVM
+
+-Git
+
+-Bundler
+
 ## Ruby
 
 ### Was ist Ruby?
@@ -66,3 +80,23 @@ Ruby Version anzeigen:
 `which ruby`
 
 ## Git
+
+### Was ist Git?
+
+Git ist eine kostenlose Software für das versionieren und verwalten des Programmcodes.
+
+### Installation
+
+Git installieren:
+
+`sudo apt install git-all`
+
+## Bundler
+
+### Was ist Bundler?
+
+Bundler bietet eine Umgebung für Ruby-Projekte durch die Installation und Verfolgung der Gems und Versionen, die für das Projekt benötigt werden.
+
+### Installation
+
+`gem install bundler`
