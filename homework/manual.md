@@ -1,7 +1,7 @@
 # Anleitung
 
 Um am Ruby on Rails Workshop teilzunehmen, müssen einige Anforderungen erfüllt werden.
-Hier ist eine Anleitung was es braucht und wie man es installiert.
+Hier ist eine Anleitung in der steht was es braucht und wie man es installiert.
 
 ## Vorraussetzungen
 
