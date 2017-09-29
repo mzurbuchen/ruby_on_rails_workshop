@@ -14,12 +14,12 @@ dazu ein mitzumachen.
 1. [Ruby Basics](ruby/01_basics.md)
 1. [Try Ruby](ruby/02_try_ruby.md)
 1. [Ruby Übungen](ruby/03_exercises.md)
-1. [Rails Warrior](ruby/04_warrior.md)
+1. [Ruby Warrior](ruby/04_warrior.md)
 
 ### Rails
 1. [Rails Basics](rails/01_basics.md)
 1. [Getting Started with Rails](rails/02_getting_started.md)
-1. [Ruby Übungen](rails/03_exercises.md)
+1. [Rails Übungen](rails/03_exercises.md)
 
 ## Helpful Links and additional Documentation
 
