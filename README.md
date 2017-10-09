@@ -20,9 +20,6 @@ Zuerst werden wir die Programmiersprache Ruby anschauen und danach das Webframew
 1. [Ruby Übungen](ruby/03_exercises.md)
 1. [Ruby Warrior](ruby/04_warrior.md)
 
-### Git
-1. [Git Übungen](git/01_exercises.md)
-
 ### Rails
 1. [Getting Started with Rails](rails/01_getting_started.md)
 1. [Rails Übungen](rails/02_exercises.md)
