@@ -3,7 +3,7 @@
 Der Ruby on Rails Workshop findet am 8. November 
 im Sitzungszimmer Git bei Puzzle ITC an der Belpstrasse 37 statt.
 Dieser Workshop ist von Lernenden für Lernende. Interessierte Lernende laden wir gerne 
-dazu ein mitzumachen.
+dazu ein mitzumachen. Jeder Teilnehmer muss seinen eigenen Laptop mitnehmen.
 
 Um am Ruby on Rails Workshop teilzunehmen, müssen einige Anforderungen erfüllt werden. Hier ist eine Anleitung in der steht was es braucht und wie man es installiert.
 
