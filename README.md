@@ -29,3 +29,4 @@ Zuerst werden wir die Programmiersprache Ruby anschauen und danach das Webframew
 
 - [Introducing](http://kottans.org/ruby-slides/public/rubybasics/#run-files)
 - [Getting started with Rails](http://guides.rubyonrails.org/getting_started.html)
+- [Rails Tutorial](https://www.tutorialspoint.com/ruby-on-rails/rails-directory-structure.htm)
