@@ -1,6 +1,6 @@
 # Ruby on Rails Workshop
 
-Der Ruby on Rails Workshop findet am 8. November 
+Der Ruby on Rails Workshop findet am 13. Dezember 
 im Sitzungszimmer Git bei Puzzle ITC an der Belpstrasse 37 statt.
 Dieser Workshop ist von Lernenden für Lernende. Interessierte Lernende laden wir gerne 
 dazu ein mitzumachen. Jeder Teilnehmer muss seinen eigenen Laptop mitnehmen.
