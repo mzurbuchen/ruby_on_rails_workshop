@@ -108,6 +108,10 @@ Ruby on Rails installieren:
 
 `gem install rails`
 
+Falls dieser Befehl nicht funktionieren sollte, kannst du Rails in das globale Gemset installieren:
+
+`rvm use ruby-2.3.1@rails5.0 --create`
+
 Rails Version anzeigen:
 
 `rails -v`
