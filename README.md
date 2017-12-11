@@ -1,6 +1,6 @@
 # Ruby on Rails Workshop
 
-## 13. Dezember 2017
+### 13. Dezember 2017
 
 Der Ruby on Rails Workshop findet am 13. Dezember 
 im Sitzungszimmer Git bei Puzzle ITC an der Belpstrasse 37 statt.
