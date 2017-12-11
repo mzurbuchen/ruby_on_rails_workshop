@@ -3,7 +3,7 @@
 Um am Ruby on Rails Workshop teilzunehmen, müssen einige Anforderungen erfüllt werden.
 Hier ist eine Anleitung in der steht was es braucht und wie man es installiert.
 
-Rails Girls ([Anleitung](http://railsgirlshh.github.io/install)) für Windows, OS X und Linux.
+Rails Girls [Anleitung](http://railsgirlshh.github.io/install) für Windows, OS X und Linux.
 
 ## Vorraussetzungen
 
