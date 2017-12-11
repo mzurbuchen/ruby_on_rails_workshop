@@ -20,7 +20,6 @@ Zuerst werden wir die Programmiersprache Ruby anschauen und danach das Webframew
 1. [Ruby Basics](ruby/01_basics.md)
 1. [Try Ruby](ruby/02_try_ruby.md)
 1. [Ruby Übungen](ruby/03_exercises.md)
-1. [Ruby Warrior](ruby/04_warrior.md)
 
 ### Rails
 1. [Getting Started with Rails](rails/01_getting_started.md)
