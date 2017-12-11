@@ -1,6 +1,6 @@
 # Ruby Übungen
 
-Das erlernte Wissen über Ruby soll jetzt auch angewendet werden. Hier sind ein paar Beispiele wie ihr dies tun könnt.
+Das erlernte Wissen über Ruby soll jetzt auch angewendet werden. Hier sind ein paar Beispiele wie ihr dies tun könnt:
 
 ## Codecademy
 
