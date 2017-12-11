@@ -8,7 +8,7 @@ Nachdem Sie den Getting Started Guide gelesen haben, wissen Sie:
 
 - Was Rails ist.
 
-- Wie man Rails installiert. ([[http://railsgirlshh.github.io/install][Anleitung]])
+- Wie man Rails installiert. ([Anleitung](http://railsgirlshh.github.io/install))
 
 - Wie man eine Rails-Anwendung erstellt.
 
