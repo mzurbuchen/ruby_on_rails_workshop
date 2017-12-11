@@ -16,6 +16,8 @@ Um am Ruby on Rails Workshop teilzunehmen, müssen einige Anforderungen erfüllt
 
 Zuerst werden wir die Programmiersprache Ruby anschauen und danach das Webframework Rails.
 
+[Presentation](presentation/)
+
 ### Ruby
 1. [Ruby Basics](ruby/01_basics.md)
 1. [Try Ruby](ruby/02_try_ruby.md)
