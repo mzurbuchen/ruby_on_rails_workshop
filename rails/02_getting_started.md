@@ -1,7 +1,7 @@
 # Getting Started with Rails
 
 Rails Guides ist eine gute Seite um mehr über Rails zu lernen.
-Es ist ein umfangreiches Handbuch in welchem man die wichtigsten
+Es ist ein Handbuch in welchem man die wichtigsten
 Sachen über Rails nachlesen kann.
 
 Nachdem Sie den Getting Started Guide gelesen haben, wissen Sie:
@@ -22,6 +22,6 @@ Nachdem Sie den Getting Started Guide gelesen haben, wissen Sie:
 
 [Getting started](http://guides.rubyonrails.org/getting_started.html)
 
-Möchtest du mehr über Ruby on Rails lesen? Dieses Tutorial gibt einen umfangvollen Einblick in Ruby on Rails.
+Möchtest du mehr über Ruby on Rails lernen? Dieses Tutorial gibt einen umfangvollen Einblick in Ruby on Rails.
 
 [Rails Basics](https://www.tutorialspoint.com/ruby-on-rails/rails-directory-structure.htm)
