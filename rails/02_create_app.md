@@ -4,4 +4,4 @@ Jetzt kannst du deine eigene Rails Applikation erstellen.
 
 Du kannst diesem Tutorial folgen oder auch selber ausprobieren:
 
-http://railsgirlshh.github.io/app
+[Eine neue Rails App erstellen](http://railsgirlshh.github.io/app)
