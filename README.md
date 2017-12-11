@@ -23,8 +23,8 @@ Zuerst werden wir die Programmiersprache Ruby anschauen und danach das Webframew
 1. [Ruby Warrior](ruby/04_warrior.md)
 
 ### Rails
-1. [Rails Basics](rails/01_basics.md)
-1. [Getting Started with Rails](rails/02_getting_started.md)
+1. [Getting Started with Rails](rails/01_getting_started.md)
+1. [Create your own Rails App](rails/02_create_app.md)
 1. [Rails Übungen](rails/03_exercises.md)
 
 ## Helpful Links and additional Documentation
