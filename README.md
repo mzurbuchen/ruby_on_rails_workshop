@@ -24,9 +24,9 @@ Zuerst werden wir die Programmiersprache Ruby anschauen und danach das Webframew
 1. [Ruby Übungen](ruby/03_exercises.md)
 
 ### Rails
-1. [Getting Started with Rails](rails/01__exercises.md)
+1. [Rails Übungen](rails/01_exercises.md)
 1. [Create your own Rails App](rails/02_create_app.md)
-1. [Rails Übungen](rails/03_getting_started.md)
+1. [Getting Started with Rails](rails/03_getting_started.md)
 
 ## Helpful Links and additional Documentation
 
