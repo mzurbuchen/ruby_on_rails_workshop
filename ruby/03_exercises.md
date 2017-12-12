@@ -9,20 +9,6 @@ Dazu benötigst du einen Account. Wenn du noch kein Account hast, kannst du jetz
 
 [Codecademy](https://www.codecademy.com/learn/learn-ruby)
 
-## Code School
-
-Codecademy ist ähnlich wie Codecademy. Die Internet-Plattform bietet auch Programmierunterricht für viele Programmiersprachen an.
-Auch hier kannst du einen Account erstellen, um die Übungen zu lösen.
-
-[Code School](https://www.codeschool.com/learn/ruby)
-
-## Solo Learn
-
-Ein weiteres Beispiel ist Solo Learn. Es ist ähnlich wie Codecademy und für Anfänger und Fortgeschrittene geeignet,
-da man auch Levels überspringen kann.
-
-[Solo Learn](https://www.sololearn.com/Course/Ruby/)
-
 ## Ruby Warrior
 
 Der Ruby Warrior ist ein Spiel, in dem man lernt Ruby zu programmieren.
