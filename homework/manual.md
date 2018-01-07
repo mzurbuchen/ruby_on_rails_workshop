@@ -118,6 +118,14 @@ Rails Version anzeigen:
 
 `rails -v`
 
+Falls du das Capybara Webkit nicht installieren kannst:
+
+`sudo apt-get install libqtwebkit-dev`
+
+Falls du Mysql nicht installieren kannst:
+
+`sudo apt-get install libmysqlclient-dev`
+
 ## Git
 
 ### Was ist Git?
